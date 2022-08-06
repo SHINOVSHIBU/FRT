@@ -1,10 +1,6 @@
 # Restaurant Website  
 
 
-
-**Project Link** - https://paradise-restaurant.azurewebsites.net
-
-
 **Demo Video** -  https://youtube.com/shorts/AzHf0EDl_GQ?feature=share
 
 ## Features and Functionalities 
